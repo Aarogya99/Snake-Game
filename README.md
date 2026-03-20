@@ -35,6 +35,4 @@ A classic, browser-based Snake game built with HTML5 Canvas, CSS3, and Vanilla J
 - `style.css`: Contains all styles including custom fonts, colors, and layout positioning.
 - `script.js`: Contains all the game state, canvas drawing updates, logic (moving, consuming food, collisions), and event listeners.
 
-## License
 
-This project is open-source and free to use for educational purposes or personal enjoyment!
