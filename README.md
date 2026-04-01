@@ -1,4 +1,4 @@
-# Retro Snake
+# Retro Snake Game
 
 A classic, browser-based Snake game built with HTML5 Canvas, CSS3, and Vanilla JavaScript. It features a retro 8-bit aesthetic, increasing difficulty, and local high score tracking.
 
